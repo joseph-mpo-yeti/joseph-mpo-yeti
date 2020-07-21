@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am glad you are taking a look at my profile
+I am glad you are taking a look at my profile.
 
 Here are a few things about me:
 
