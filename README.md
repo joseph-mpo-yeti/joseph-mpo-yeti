@@ -9,6 +9,5 @@ Here are a few things about me:
 - 💬 You can ask me about anything. Really!!!
 - 📫 How to reach me: email first. I read all my emails, even spams.
 - 😄 Pronouns: He, him, his
-- ⚡ Fun fact: I don't use social media apart from [LinkedIn](https://linkedin.com/in/jmpoyeti).
 
 You must already know that my best work is in private repositories. So, if you want to see what my craft looks like, please take a look at my [portfolio](https://josephmpo.me).
