@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joseph</h1>
 <h3 align="center">A student and aspiring software engineer</h3>
-<h4 align="center"><a href="https://josephmpo.me">See my Portfolio</a></h4>
 
 <br>
 <p align="center">
@@ -22,6 +21,8 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/>
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="webpack" width="40" height="40"/>
+
 </p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joseph-mpo-yeti&show_icons=true" alt="joseph-mpo-yeti" /></p>
+<h4 align="center"><a href="https://josephmpo.me">See my Portfolio</a></h4>
